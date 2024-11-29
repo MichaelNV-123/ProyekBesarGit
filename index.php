@@ -49,6 +49,7 @@
         <div class="header-content">
             <h1 class="header-title">   NGESTI PANDOWO</h1>
             <p class="header-subtitle">Jl. Sriwijaya No.29, Tegalsari, Kec. Candisari, Kota Semarang, Jawa Tengah 50614</p>
+            <p>lorem</p>
 
             <button class="btn btn-theme-color modal-toggle"><i class="ti-control-play text-danger"></i> TONTON CUPLIKAN</button>
 
