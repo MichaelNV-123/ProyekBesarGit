@@ -75,7 +75,7 @@
             orang serta menumbuhkan kecintaan terhadap seni tradisi. Pertunjukan wayang orang juga berfungsi sebagai hiburan bagi
             masyarakat. Sejak awal berdirinya, Ngesti Pandowo telah mendapatkan sambutan positif dari masyarakat, tidak hanya dari
             kalangan Jawa, tetapi juga dari orang-orang Belanda dan keturunan Tionghoa. Dengan demikian, wayang orang telah menjadi
-            seni pertunjukan yang dapat dinikmati oleh berbagai lapisan masyarakat, baik pribumi maupun non-pribumi.</p>
+            seni pertunjukan yang dapat dinikmati oleh berbagai lapisan masyarakat, baik pribumi maupun non-pribumi. Ngesti sekarang menjadi salah satu tulang punggung perwayangan di Semarang.</p>
         </div>  
         <div>
         <p><img src="public_html/assets/imgs/pendiri.png" alt="pendiri"></p>
