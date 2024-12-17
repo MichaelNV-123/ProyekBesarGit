@@ -69,13 +69,7 @@
         <div class="col-md-10 col-lg-8 m-auto">
             <h6 class="title mb-4">Sejarah Ngesti Pandawa</h6>
             <p class="mb-5">Ngesti Pandowo adalah perkumpulan kesenian tradisional Wayang Orang (WO) profesional berlokasi di Semarang. Saat ini, lokasi pentas Wayang Orang Ngesti Pandowo berada di Gedung Kesenian Ki Narto Sabdho dalam kompleks Taman Budaya Raden Saleh, Kota Semarang, Jawa Tengah, Indonesia. Ngesti Pandowo merupakan satu dari tiga perkumpulan kesenian tradisional Wayang Orang profesional yang bertahan di Indonesia, di samping Wayang Orang Sriwedari di Taman Sriwedari Solo dan Wayang Orang Bharata Jakarta.</p>
-            <p class="mb-5">Kelompok ini didirikan di Madiun oleh Ki Sastro Sabdho pada tanggal 1 Juli 1937 dengan tujuan untuk menghidupkan kembali
-            seni pertunjukan wayang orang panggung. Wayang Orang Panggung adalah kombinasi antara Wayang Orang Keraton (sering
-            disebut wayang orang pendhapa) dan teater barat. Keberadaan Ngesti Pandowo bertujuan untuk melestarikan seni wayang
-            orang serta menumbuhkan kecintaan terhadap seni tradisi. Pertunjukan wayang orang juga berfungsi sebagai hiburan bagi
-            masyarakat. Sejak awal berdirinya, Ngesti Pandowo telah mendapatkan sambutan positif dari masyarakat, tidak hanya dari
-            kalangan Jawa, tetapi juga dari orang-orang Belanda dan keturunan Tionghoa. Dengan demikian, wayang orang telah menjadi
-            seni pertunjukan yang dapat dinikmati oleh berbagai lapisan masyarakat, baik pribumi maupun non-pribumi. Ngesti sekarang menjadi salah satu tulang punggung perwayangan di Semarang.</p>
+            <p class="mb-5">Masih dalam tahap pengerjaan</p>
         </div>  
         <div>
         <p><img src="public_html/assets/imgs/pendiri.png" alt="pendiri"></p>
